@@ -1,0 +1,17 @@
+{
+  "name": "FeedFrontEnd",
+  "displayName": "FeedFrontEnd",
+  "expo": {
+    "name": "FeedFrontEnd",
+    "slug": "FeedFrontEnd",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.0",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://j7-nmm.anonymous.feedfrontend.exp.direct",
+  "packagerNgrokUrl": "https://packager.j7-nmm.anonymous.feedfrontend.exp.direct",
+  "ngrokPid": 26319,
+  "devToolsPort": 19002,
+  "packagerPort": 19003,
+  "packagerPid": 26309
+}
