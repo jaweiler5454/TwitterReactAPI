@@ -142,7 +142,7 @@ function parseMediaText(text) {
   return text.substring(0, returnIndex);
 }
 
-//On PopUp
+// On PopUp
 function modalContent(mediaType, mediaUrl) {
   if (mediaType === "video" || mediaType === "animated_gif") {
     return (
@@ -199,7 +199,7 @@ function createTextTweet(tweet) {
 }
 
 // MAIN CLASS
-export default class Timeline extends Component {
+export default class Tweet extends Component {
   constructor(props) {
     super(props);
     this.myData = getData(props.username);
@@ -209,6 +209,12 @@ export default class Timeline extends Component {
       currMediaType: "",
     };
   }
+
+  //   createTweetObject(tweetObj){
+  //     if(tweetObj.extended_entities == null){
+
+  //     }
+  //   }
 
   render() {
     const { showPhotoModal } = this.state;
