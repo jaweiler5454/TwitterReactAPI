@@ -17,16 +17,6 @@ const colors = {
 const twitterIcon = (
   <Icon name="twitter" type="font-awesome" color={colors.twitter_blue} />
 );
-const xIcon = (
-  <Icon
-    onPress={() => {
-      this.state.showPhotoModal = false;
-    }}
-    name="times-circle"
-    type="font-awesome"
-    color={colors.twitter_blue}
-  />
-);
 
 const styles = StyleSheet.create({
   container: {
@@ -49,6 +39,7 @@ const styles = StyleSheet.create({
   },
   cardHeader: {
     paddingLeft: "5%",
+    paddingTop: "0%",
   },
   singleImage: {
     flex: 1,
@@ -70,38 +61,13 @@ const styles = StyleSheet.create({
     fontSize: 18,
     paddingLeft: "5%",
   },
-  mediaOverlay: {},
+  retweetComponent: {
+    fontSize: 14,
+    paddingLeft: "5%",
+    paddingTop: "2%",
+    paddingBottom: "0%",
+  },
 });
-
-// NON-CLASS FUNCTIONS
-function getData(username) {
-  return data;
-}
-
-function getMediaContent(tweet) {
-  let i = 0;
-  const mediaArray = tweet.extended_entities.media;
-  const displayUrls = [];
-  const types = [];
-  const showUrls = [];
-  const outputArray = [];
-  for (i = 0; i < mediaArray.length; i += 1) {
-    displayUrls.push(mediaArray[i].media_url_https);
-    types.push(mediaArray[i].type);
-    if (
-      mediaArray[i].type === "video" ||
-      mediaArray[i].type === "animated_gif"
-    ) {
-      showUrls.push(mediaArray[i].video_info.variants[0].url);
-    } else {
-      showUrls.push(displayUrls[i]);
-    }
-  }
-  outputArray.push(displayUrls);
-  outputArray.push(types);
-  outputArray.push(showUrls);
-  return outputArray;
-}
 
 /**
  * dateDisplay accepts a date String in "raw" form -- what is given by Twitter API. EX: "Tue Nov 19 18:16:04 +0000 2019"
@@ -125,21 +91,58 @@ function dateDisplay(rawDate) {
 }
 
 /**
- * parseMediaText takes the text of a tweet and returns the text without the media url at the end of the tweet
+ * parseMediaText takes the text of a tweet returns the text without the media url at the end of the tweet and no RT tag
+ * if this tweet's texts includes either of those things
  * @param {String} text
  * @returns {String}
  */
-function parseMediaText(text) {
+function parseText(text, hasMedia) {
   const textLen = text.length;
-  let returnIndex = textLen - 1;
-  let i = textLen - 1;
-  for (i = textLen - 1; i >= 4; i -= 1) {
-    if (text.substring(i - 4, i + 1) === "https") {
-      returnIndex = i - 4;
-      break;
+  if (hasMedia) {
+    let returnIndex = textLen - 1;
+    let i = textLen - 1;
+    for (i = textLen - 1; i >= 4; i -= 1) {
+      if (text.substring(i - 4, i + 1) === "https") {
+        returnIndex = i - 4;
+        break;
+      }
     }
+    return text.substring(0, returnIndex);
   }
-  return text.substring(0, returnIndex);
+  return text;
+}
+
+// STATELESS COMPONENTS //
+
+function retweetComponent(retweetStatus, user) {
+  if (retweetStatus === true) {
+    return (
+      <Text style={styles.retweetComponent}>{user.concat(" retweeted")}</Text>
+    );
+  }
+  return null;
+}
+
+// if tweet is text only
+function textComponent(tweetObj, isRetweet, hasMedia, user, tweeter) {
+  return (
+    <View>
+      {retweetComponent(isRetweet, user)}
+      <View style={styles.cardHeader}>
+        <ListItem
+          containerStyle={{ paddingLeft: 0 }}
+          roundAvatar
+          title={"@".concat(tweeter)}
+          subtitle={dateDisplay(tweetObj.created_at)}
+          leftAvatar={{
+            source: { uri: tweetObj.user.profile_image_url_https },
+          }}
+          rightIcon={twitterIcon}
+        />
+      </View>
+      <Text style={styles.text}>{parseText(tweetObj.text, hasMedia)}</Text>
+    </View>
+  );
 }
 
 // On PopUp
@@ -175,34 +178,19 @@ function modalContent(mediaType, mediaUrl) {
   );
 }
 
-// if tweet is text only
-function createTextTweet(tweet) {
-  return (
-    <Card containerStyle={styles.card}>
-      <View style={styles.cardHeader}>
-        <ListItem
-          containerStyle={{ paddingLeft: 0 }}
-          roundAvatar
-          title="@jackdblu"
-          subtitle={dateDisplay(tweet.created_at)}
-          leftAvatar={{
-            source: { uri: tweet.user.profile_image_url_https },
-          }}
-          rightIcon={twitterIcon}
-        />
-      </View>
-      <View style={styles.cardItem}>
-        <Text style={styles.text}>{tweet.text}</Text>
-      </View>
-    </Card>
-  );
-}
-
 // MAIN CLASS
 export default class Tweet extends Component {
   constructor(props) {
     super(props);
-    this.myData = getData(props.username);
+    this.myData = data; // will delete
+
+    this.name = props.name;
+    this.username = props.username;
+    this.tweet = props.tweetObject; // imported from timeline
+    this.isRetweet = props.isRetweet; // NEED TO BE IMPORTED FROM TIMELINE
+    this.hasMedia = props.hasMedia; // NEED TO BE IMPORTED FROM TIMELINE
+    this.media = props.mediaContent;
+
     this.state = {
       showPhotoModal: false,
       currUrl: "",
@@ -210,20 +198,24 @@ export default class Tweet extends Component {
     };
   }
 
-  //   createTweetObject(tweetObj){
-  //     if(tweetObj.extended_entities == null){
-
-  //     }
-  //   }
-
   render() {
+    // state assignments
     const { showPhotoModal } = this.state;
     const { currUrl } = this.state;
     const { currMediaType } = this.state;
-    const media = getMediaContent(this.myData[2]);
 
-    if (this.myData[3].text == null) {
-      return createTextTweet(this.myData[2].text);
+    if (this.hasMedia === false) {
+      return (
+        <Card containerStyle={styles.card}>
+          {textComponent(
+            this.tweet,
+            this.isRetweet,
+            this.hasMedia,
+            this.name,
+            this.username
+          )}
+        </Card>
+      );
     }
     return (
       <View>
@@ -246,31 +238,27 @@ export default class Tweet extends Component {
           </View>
         </Overlay>
         <Card containerStyle={styles.card}>
-          <View style={styles.cardHeader}>
-            <ListItem
-              containerStyle={{ paddingLeft: 0 }}
-              roundAvatar
-              title="@jackdblu"
-              subtitle={dateDisplay(this.myData[2].created_at)}
-              leftAvatar={{
-                source: { uri: this.myData[2].user.profile_image_url_https },
-              }}
-              rightIcon={twitterIcon}
-            />
-          </View>
-          <Text style={styles.text}>{parseMediaText(this.myData[2].text)}</Text>
-          <View style={styles.imageContainer}>
-            <FBCollage
-              images={media[0]}
-              style={styles.singleImage}
-              imageOnPress={(index, images) => {
-                this.setState({
-                  showPhotoModal: true,
-                  currUrl: media[2][index],
-                  currMediaType: media[1][index],
-                });
-              }}
-            />
+          <View>
+            {textComponent(
+              this.tweet,
+              this.isRetweet,
+              this.hasMedia,
+              this.name,
+              this.username
+            )}
+            <View style={styles.imageContainer}>
+              <FBCollage
+                images={this.media[0]}
+                style={styles.singleImage}
+                imageOnPress={(index, images) => {
+                  this.setState({
+                    showPhotoModal: true,
+                    currUrl: this.media[2][index],
+                    currMediaType: this.media[1][index],
+                  });
+                }}
+              />
+            </View>
           </View>
         </Card>
       </View>
