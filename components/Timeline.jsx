@@ -2,7 +2,7 @@ import React, { Component, useState, useEffect } from "react";
 import { Dimensions, View, ScrollView, Text } from "react-native";
 import { Icon } from "react-native-elements";
 import Tweet from "./Tweet";
-// import data from "./data.json";
+import data from "./data.json";
 
 const colors = {
   twitter_blue: "#00acee",
@@ -45,6 +45,8 @@ export default class Timeline extends Component {
     this.username = props.username;
     this.userId = props.userId;
 
+    this.myData = data;
+
     this.isRetweet = false;
     this.hasMedia = false;
     this.mediaContent = null;
@@ -54,42 +56,6 @@ export default class Timeline extends Component {
       loading: true,
       myData: [],
     };
-  }
-
-  componentDidMount() {
-    const myHeaders = new Headers();
-
-    myHeaders.append(
-      "Authorization",
-      'OAuth oauth_consumer_key="w6MdB0mSsgiQ22CONyYAUi1Z0",oauth_token="1245097391071670280-zzdVEGFOrFFMZSPZYT0SwIaHBYDi9k",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1589550823",oauth_nonce="TO4TF3eLISX",oauth_version="1.0",oauth_signature="gtQrD3twpoCXk93sd6may5FviCk%3D"'
-    );
-    myHeaders.append(
-      "Cookie",
-      'personalization_id="v1_n/xvi4yIru6+0thMSCA+EQ=="; guest_id=v1%3A158569619909156784; lang=en'
-    );
-
-    const endpoint = "https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=".concat(
-      this.userId
-    );
-
-    const requestOptions = {
-      method: "GET",
-      headers: myHeaders,
-      redirect: "follow",
-    };
-    const fetchData = async () => {
-      await fetch(endpoint, requestOptions)
-        .then((res) => res.json())
-        .then((json) => {
-          this.setState({
-            loading: false,
-            myData: json,
-          });
-          return json;
-        })
-        .catch((error) => console.log("error", error));
-    };
-    fetchData();
   }
 
   handleData(inputTweetObj) {
@@ -113,14 +79,13 @@ export default class Timeline extends Component {
   }
 
   render() {
-    const { loading } = this.state;
+    const { loading } = false;
     if (loading) {
       return <Text>Loading...</Text>;
     }
-    const { myData } = this.state;
     return (
       <ScrollView>
-        {myData.map((tweet) => {
+        {this.myData.map((tweet) => {
           const inputTweet = this.handleData(tweet);
           return (
             <Tweet

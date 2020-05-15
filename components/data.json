@@ -1,129 +1,195 @@
 [
   {
-    "created_at": "Thu May 14 22:43:57 +0000 2020",
-    "id": 1261064735497375750,
-    "id_str": "1261064735497375750",
-    "text": "who’s supporting your album? no literally try to list names. it’s impossible https://t.co/G6WsCVU6Ow",
-    "truncated": false,
+    "created_at": "Fri May 15 16:03:42 +0000 2020",
+    "id": 1261326399320715264,
+    "id_str": "1261326399320715264",
+    "text": "Tune in to the @MongoDB @Twitch stream featuring our very own @suhemparack to learn about Twitter Developer Labs -… https://t.co/ZQ1AbkHaYI",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "MongoDB",
+          "name": "MongoDB",
+          "id": 18080585,
+          "id_str": "18080585",
+          "indices": [
+            15,
+            23
+          ]
+        },
+        {
+          "screen_name": "Twitch",
+          "name": "Twitch",
+          "id": 309366491,
+          "id_str": "309366491",
+          "indices": [
+            24,
+            31
+          ]
+        },
+        {
+          "screen_name": "suhemparack",
+          "name": "Suhem Parack",
+          "id": 857699969263964161,
+          "id_str": "857699969263964161",
+          "indices": [
+            62,
+            74
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/G6WsCVU6Ow",
-          "expanded_url": "https://twitter.com/beatsbynav/status/1260708449718988800",
-          "display_url": "twitter.com/beatsbynav/sta…",
+          "url": "https://t.co/ZQ1AbkHaYI",
+          "expanded_url": "https://twitter.com/i/web/status/1261326399320715264",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            77,
-            100
+            116,
+            139
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
     "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
       "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
         "description": {
-          "urls": []
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
         }
       },
       "protected": false,
-      "followers_count": 115,
-      "friends_count": 155,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 808,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 183,
+      "verified": true,
+      "statuses_count": 3555,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
       "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
       "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1254480750780583937/IBBKNzbQ_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254480750780583937/IBBKNzbQ_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
       "profile_sidebar_fill_color": "DDEEF6",
       "profile_text_color": "333333",
-      "profile_use_background_image": true,
+      "profile_use_background_image": false,
       "has_extended_profile": true,
-      "default_profile": true,
+      "default_profile": false,
       "default_profile_image": false,
       "following": false,
       "follow_request_sent": false,
       "notifications": false,
-      "translator_type": "none"
+      "translator_type": "regular"
     },
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 1260708449718988800,
-    "quoted_status_id_str": "1260708449718988800",
+    "quoted_status_id": 1261091720801980419,
+    "quoted_status_id_str": "1261091720801980419",
     "quoted_status": {
-      "created_at": "Wed May 13 23:08:11 +0000 2020",
-      "id": 1260708449718988800,
-      "id_str": "1260708449718988800",
-      "text": "I want to thank everyone who has been supporting me and my album. I appreciate all the love I’ve been getting on th… https://t.co/ez9d0kuWLs",
+      "created_at": "Fri May 15 00:31:10 +0000 2020",
+      "id": 1261091720801980419,
+      "id_str": "1261091720801980419",
+      "text": "Tomorrow (May 15) at 12pm EST (9am PST, 6pm CET), join us for a Twitch stream with @KukicAdo from MongoDB and… https://t.co/yvrkNwV0fT",
       "truncated": true,
       "entities": {
         "hashtags": [],
         "symbols": [],
-        "user_mentions": [],
+        "user_mentions": [
+          {
+            "screen_name": "KukicAdo",
+            "name": "Ado Kukic",
+            "id": 440609049,
+            "id_str": "440609049",
+            "indices": [
+              83,
+              92
+            ]
+          }
+        ],
         "urls": [
           {
-            "url": "https://t.co/ez9d0kuWLs",
-            "expanded_url": "https://twitter.com/i/web/status/1260708449718988800",
+            "url": "https://t.co/yvrkNwV0fT",
+            "expanded_url": "https://twitter.com/i/web/status/1261091720801980419",
             "display_url": "twitter.com/i/web/status/1…",
             "indices": [
-              117,
-              140
+              111,
+              134
             ]
           }
         ]
       },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
       "in_reply_to_status_id": null,
       "in_reply_to_status_id_str": null,
       "in_reply_to_user_id": null,
       "in_reply_to_user_id_str": null,
       "in_reply_to_screen_name": null,
       "user": {
-        "id": 966729216,
-        "id_str": "966729216",
-        "name": "Nav",
-        "screen_name": "beatsbynav",
-        "location": "Toronto",
-        "description": "XO",
-        "url": "https://t.co/nm9Ckupw6m",
+        "id": 18080585,
+        "id_str": "18080585",
+        "name": "MongoDB",
+        "screen_name": "MongoDB",
+        "location": "",
+        "description": "For the ones who dream big & think ahead to create the things we can’t live without. MongoDB for #GIANTideas.",
+        "url": "https://t.co/gdbC5QYyk3",
         "entities": {
           "url": {
             "urls": [
               {
-                "url": "https://t.co/nm9Ckupw6m",
-                "expanded_url": "https://nav.lnk.to/GI-DLX",
-                "display_url": "nav.lnk.to/GI-DLX",
+                "url": "https://t.co/gdbC5QYyk3",
+                "expanded_url": "https://www.mongodb.com/",
+                "display_url": "mongodb.com",
                 "indices": [
                   0,
                   23
@@ -136,2627 +202,31 @@
           }
         },
         "protected": false,
-        "followers_count": 688176,
-        "friends_count": 177,
-        "listed_count": 409,
-        "created_at": "Fri Nov 23 19:56:50 +0000 2012",
-        "favourites_count": 4526,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": true,
-        "statuses_count": 845,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "C0DEED",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1243391251837145088/OYUXP4oB_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243391251837145088/OYUXP4oB_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/966729216/1553378664",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": true,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none"
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1897,
-      "favorite_count": 18049,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "en"
-    },
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Mon Mar 30 21:47:51 +0000 2020",
-    "id": 1244743165351006209,
-    "id_str": "1244743165351006209",
-    "text": "about to blame everything on the ZIC: Zoom Industrial Complex",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": []
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Mon Mar 30 19:11:49 +0000 2020",
-    "id": 1244703899279396864,
-    "id_str": "1244703899279396864",
-    "text": "no matter how restless I get I will NOT be starting a Snapchat streak",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": []
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Sun Mar 29 22:14:07 +0000 2020",
-    "id": 1244387387918159875,
-    "id_str": "1244387387918159875",
-    "text": "RT @Geolololol: Me texting my same 3 friends  https://t.co/8PFP0XlNPi",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "Geolololol",
-          "name": "MGB",
-          "id": 3271239008,
-          "id_str": "3271239008",
-          "indices": [
-            3,
-            14
-          ]
-        }
-      ],
-      "urls": [],
-      "media": [
-        {
-          "id": 1242878673860116480,
-          "id_str": "1242878673860116480",
-          "indices": [
-            46,
-            69
-          ],
-          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242878673860116480/pu/img/CIQW16iI3InfXFuD.jpg",
-          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242878673860116480/pu/img/CIQW16iI3InfXFuD.jpg",
-          "url": "https://t.co/8PFP0XlNPi",
-          "display_url": "pic.twitter.com/8PFP0XlNPi",
-          "expanded_url": "https://twitter.com/Johnatron4000/status/1242878744479649797/video/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 557,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 682,
-              "h": 832,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 682,
-              "h": 832,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 1242878744479649797,
-          "source_status_id_str": "1242878744479649797",
-          "source_user_id": 292059783,
-          "source_user_id_str": "292059783"
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1242878673860116480,
-          "id_str": "1242878673860116480",
-          "indices": [
-            46,
-            69
-          ],
-          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242878673860116480/pu/img/CIQW16iI3InfXFuD.jpg",
-          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242878673860116480/pu/img/CIQW16iI3InfXFuD.jpg",
-          "url": "https://t.co/8PFP0XlNPi",
-          "display_url": "pic.twitter.com/8PFP0XlNPi",
-          "expanded_url": "https://twitter.com/Johnatron4000/status/1242878744479649797/video/1",
-          "type": "video",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 557,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 682,
-              "h": 832,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 682,
-              "h": 832,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 1242878744479649797,
-          "source_status_id_str": "1242878744479649797",
-          "source_user_id": 292059783,
-          "source_user_id_str": "292059783",
-          "video_info": {
-            "aspect_ratio": [
-              341,
-              416
-            ],
-            "duration_millis": 6663,
-            "variants": [
-              {
-                "bitrate": 832000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1242878673860116480/pu/vid/360x438/_bHplEAwH4vNaIQD.mp4?tag=10"
-              },
-              {
-                "bitrate": 632000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1242878673860116480/pu/vid/320x390/us6Qv2jlOI39ebpW.mp4?tag=10"
-              },
-              {
-                "content_type": "application/x-mpegURL",
-                "url": "https://video.twimg.com/ext_tw_video/1242878673860116480/pu/pl/N28YVfgsbgUKKQ_9.m3u8?tag=10"
-              },
-              {
-                "bitrate": 2176000,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/ext_tw_video/1242878673860116480/pu/vid/682x832/kwepMpR5Mv42LU_j.mp4?tag=10"
-              }
-            ]
-          },
-          "additional_media_info": {
-            "monetizable": false,
-            "source_user": {
-              "id": 292059783,
-              "id_str": "292059783",
-              "name": "TiffanyTrumpVEVO",
-              "screen_name": "Johnatron4000",
-              "location": "New York City",
-              "description": "NYC | zygote | music biz | once called “one of the most ignorant ppl on Twitter today” by Smoker’s Rights Advocate Paige Sullivan",
-              "url": "https://t.co/RFbFH1Eebv",
-              "entities": {
-                "url": {
-                  "urls": [
-                    {
-                      "url": "https://t.co/RFbFH1Eebv",
-                      "expanded_url": "http://instagram.com/johncamnyc",
-                      "display_url": "instagram.com/johncamnyc",
-                      "indices": [
-                        0,
-                        23
-                      ]
-                    }
-                  ]
-                },
-                "description": {
-                  "urls": []
-                }
-              },
-              "protected": false,
-              "followers_count": 7343,
-              "friends_count": 1140,
-              "listed_count": 21,
-              "created_at": "Tue May 03 01:34:34 +0000 2011",
-              "favourites_count": 37893,
-              "utc_offset": null,
-              "time_zone": null,
-              "geo_enabled": true,
-              "verified": false,
-              "statuses_count": 27709,
-              "lang": null,
-              "contributors_enabled": false,
-              "is_translator": false,
-              "is_translation_enabled": false,
-              "profile_background_color": "000000",
-              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-              "profile_background_tile": false,
-              "profile_image_url": "http://pbs.twimg.com/profile_images/1219667575770177538/dKmhajKc_normal.jpg",
-              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1219667575770177538/dKmhajKc_normal.jpg",
-              "profile_banner_url": "https://pbs.twimg.com/profile_banners/292059783/1572997442",
-              "profile_link_color": "1B95E0",
-              "profile_sidebar_border_color": "000000",
-              "profile_sidebar_fill_color": "000000",
-              "profile_text_color": "000000",
-              "profile_use_background_image": false,
-              "has_extended_profile": false,
-              "default_profile": false,
-              "default_profile_image": false,
-              "following": false,
-              "follow_request_sent": false,
-              "notifications": false,
-              "translator_type": "none"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "retweeted_status": {
-      "created_at": "Sun Mar 29 19:28:53 +0000 2020",
-      "id": 1244345807412707328,
-      "id_str": "1244345807412707328",
-      "text": "Me texting my same 3 friends  https://t.co/8PFP0XlNPi",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [],
-        "media": [
-          {
-            "id": 1242878673860116480,
-            "id_str": "1242878673860116480",
-            "indices": [
-              30,
-              53
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242878673860116480/pu/img/CIQW16iI3InfXFuD.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242878673860116480/pu/img/CIQW16iI3InfXFuD.jpg",
-            "url": "https://t.co/8PFP0XlNPi",
-            "display_url": "pic.twitter.com/8PFP0XlNPi",
-            "expanded_url": "https://twitter.com/Johnatron4000/status/1242878744479649797/video/1",
-            "type": "photo",
-            "sizes": {
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "small": {
-                "w": 557,
-                "h": 680,
-                "resize": "fit"
-              },
-              "large": {
-                "w": 682,
-                "h": 832,
-                "resize": "fit"
-              },
-              "medium": {
-                "w": 682,
-                "h": 832,
-                "resize": "fit"
-              }
-            },
-            "source_status_id": 1242878744479649797,
-            "source_status_id_str": "1242878744479649797",
-            "source_user_id": 292059783,
-            "source_user_id_str": "292059783"
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "id": 1242878673860116480,
-            "id_str": "1242878673860116480",
-            "indices": [
-              30,
-              53
-            ],
-            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242878673860116480/pu/img/CIQW16iI3InfXFuD.jpg",
-            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242878673860116480/pu/img/CIQW16iI3InfXFuD.jpg",
-            "url": "https://t.co/8PFP0XlNPi",
-            "display_url": "pic.twitter.com/8PFP0XlNPi",
-            "expanded_url": "https://twitter.com/Johnatron4000/status/1242878744479649797/video/1",
-            "type": "video",
-            "sizes": {
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "small": {
-                "w": 557,
-                "h": 680,
-                "resize": "fit"
-              },
-              "large": {
-                "w": 682,
-                "h": 832,
-                "resize": "fit"
-              },
-              "medium": {
-                "w": 682,
-                "h": 832,
-                "resize": "fit"
-              }
-            },
-            "source_status_id": 1242878744479649797,
-            "source_status_id_str": "1242878744479649797",
-            "source_user_id": 292059783,
-            "source_user_id_str": "292059783",
-            "video_info": {
-              "aspect_ratio": [
-                341,
-                416
-              ],
-              "duration_millis": 6663,
-              "variants": [
-                {
-                  "bitrate": 832000,
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1242878673860116480/pu/vid/360x438/_bHplEAwH4vNaIQD.mp4?tag=10"
-                },
-                {
-                  "bitrate": 632000,
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1242878673860116480/pu/vid/320x390/us6Qv2jlOI39ebpW.mp4?tag=10"
-                },
-                {
-                  "content_type": "application/x-mpegURL",
-                  "url": "https://video.twimg.com/ext_tw_video/1242878673860116480/pu/pl/N28YVfgsbgUKKQ_9.m3u8?tag=10"
-                },
-                {
-                  "bitrate": 2176000,
-                  "content_type": "video/mp4",
-                  "url": "https://video.twimg.com/ext_tw_video/1242878673860116480/pu/vid/682x832/kwepMpR5Mv42LU_j.mp4?tag=10"
-                }
-              ]
-            },
-            "additional_media_info": {
-              "monetizable": false,
-              "source_user": {
-                "id": 292059783,
-                "id_str": "292059783",
-                "name": "TiffanyTrumpVEVO",
-                "screen_name": "Johnatron4000",
-                "location": "New York City",
-                "description": "NYC | zygote | music biz | once called “one of the most ignorant ppl on Twitter today” by Smoker’s Rights Advocate Paige Sullivan",
-                "url": "https://t.co/RFbFH1Eebv",
-                "entities": {
-                  "url": {
-                    "urls": [
-                      {
-                        "url": "https://t.co/RFbFH1Eebv",
-                        "expanded_url": "http://instagram.com/johncamnyc",
-                        "display_url": "instagram.com/johncamnyc",
-                        "indices": [
-                          0,
-                          23
-                        ]
-                      }
-                    ]
-                  },
-                  "description": {
-                    "urls": []
-                  }
-                },
-                "protected": false,
-                "followers_count": 7343,
-                "friends_count": 1140,
-                "listed_count": 21,
-                "created_at": "Tue May 03 01:34:34 +0000 2011",
-                "favourites_count": 37893,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": true,
-                "verified": false,
-                "statuses_count": 27709,
-                "lang": null,
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "000000",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/1219667575770177538/dKmhajKc_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1219667575770177538/dKmhajKc_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/292059783/1572997442",
-                "profile_link_color": "1B95E0",
-                "profile_sidebar_border_color": "000000",
-                "profile_sidebar_fill_color": "000000",
-                "profile_text_color": "000000",
-                "profile_use_background_image": false,
-                "has_extended_profile": false,
-                "default_profile": false,
-                "default_profile_image": false,
-                "following": false,
-                "follow_request_sent": false,
-                "notifications": false,
-                "translator_type": "none"
-              }
-            }
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "user": {
-        "id": 3271239008,
-        "id_str": "3271239008",
-        "name": "MGB",
-        "screen_name": "Geolololol",
-        "location": "Under These Bitches Skin",
-        "description": "Bernie Barb",
-        "url": "https://t.co/GIUpuA9q3W",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/GIUpuA9q3W",
-                "expanded_url": "http://patreon.com/missgiobaby",
-                "display_url": "patreon.com/missgiobaby",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 13542,
-        "friends_count": 457,
-        "listed_count": 301,
-        "created_at": "Tue Jul 07 18:53:18 +0000 2015",
-        "favourites_count": 105417,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": true,
-        "verified": false,
-        "statuses_count": 41323,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "C0DEED",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1240805307439169537/1yQhhMd__normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240805307439169537/1yQhhMd__normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3271239008/1582670337",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": true,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none"
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 587,
-      "favorite_count": 1788,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "en"
-    },
-    "is_quote_status": false,
-    "retweet_count": 587,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Sat Mar 28 19:50:10 +0000 2020",
-    "id": 1243988774356385793,
-    "id_str": "1243988774356385793",
-    "text": "cops pulling people over for speeding ... during a global pandemic?? https://t.co/fZqCkNGYru",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
-        {
-          "id": 1243988768287318019,
-          "id_str": "1243988768287318019",
-          "indices": [
-            69,
-            92
-          ],
-          "media_url": "http://pbs.twimg.com/media/EUOJMZ5XYAMvH64.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EUOJMZ5XYAMvH64.jpg",
-          "url": "https://t.co/fZqCkNGYru",
-          "display_url": "pic.twitter.com/fZqCkNGYru",
-          "expanded_url": "https://twitter.com/jackdblu/status/1243988774356385793/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 500,
-              "h": 540,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 500,
-              "h": 540,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 500,
-              "h": 540,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1243988768287318019,
-          "id_str": "1243988768287318019",
-          "indices": [
-            69,
-            92
-          ],
-          "media_url": "http://pbs.twimg.com/media/EUOJMZ5XYAMvH64.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/EUOJMZ5XYAMvH64.jpg",
-          "url": "https://t.co/fZqCkNGYru",
-          "display_url": "pic.twitter.com/fZqCkNGYru",
-          "expanded_url": "https://twitter.com/jackdblu/status/1243988774356385793/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 500,
-              "h": 540,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 500,
-              "h": 540,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 500,
-              "h": 540,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Sat Mar 28 14:53:58 +0000 2020",
-    "id": 1243914233282265088,
-    "id_str": "1243914233282265088",
-    "text": "mom came into my room at 11:30 am to wake me up talking about how she wanted to make sure I didn’t sleep the day aw… https://t.co/YmQuyIglFs",
-    "truncated": true,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/YmQuyIglFs",
-          "expanded_url": "https://twitter.com/i/web/status/1243914233282265088",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 8,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Wed Mar 25 17:09:45 +0000 2020",
-    "id": 1242861241577676801,
-    "id_str": "1242861241577676801",
-    "text": "miss rona really said: 👉6 FEET👈",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": []
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Wed Mar 25 17:04:12 +0000 2020",
-    "id": 1242859844023001089,
-    "id_str": "1242859844023001089",
-    "text": "RT @AndrewYang: You know what will revive the economy?  Suppressing and containing the virus. That’s it.",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "AndrewYang",
-          "name": "Andrew Yang🧢",
-          "id": 2228878592,
-          "id_str": "2228878592",
-          "indices": [
-            3,
-            14
-          ]
-        }
-      ],
-      "urls": []
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "retweeted_status": {
-      "created_at": "Tue Mar 24 18:09:54 +0000 2020",
-      "id": 1242513987780083712,
-      "id_str": "1242513987780083712",
-      "text": "You know what will revive the economy?  Suppressing and containing the virus. That’s it.",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "user": {
-        "id": 2228878592,
-        "id_str": "2228878592",
-        "name": "Andrew Yang🧢",
-        "screen_name": "AndrewYang",
-        "location": "USA",
-        "description": "2020 US Presidential Candidate (D). Entrepreneur & Founder of @humanityforward My book: https://t.co/2Jcw34TC5o Join the movement: https://t.co/O2T0vktBsw",
-        "url": "https://t.co/O2T0vktBsw",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/O2T0vktBsw",
-                "expanded_url": "http://movehumanityforward.com",
-                "display_url": "movehumanityforward.com",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": [
-              {
-                "url": "https://t.co/2Jcw34TC5o",
-                "expanded_url": "http://bit.ly/2POZplk",
-                "display_url": "bit.ly/2POZplk",
-                "indices": [
-                  88,
-                  111
-                ]
-              },
-              {
-                "url": "https://t.co/O2T0vktBsw",
-                "expanded_url": "http://movehumanityforward.com",
-                "display_url": "movehumanityforward.com",
-                "indices": [
-                  131,
-                  154
-                ]
-              }
-            ]
-          }
-        },
-        "protected": false,
-        "followers_count": 1383202,
-        "friends_count": 7407,
-        "listed_count": 4626,
-        "created_at": "Tue Dec 03 21:31:03 +0000 2013",
-        "favourites_count": 11235,
+        "followers_count": 348141,
+        "friends_count": 6951,
+        "listed_count": 5161,
+        "created_at": "Fri Dec 12 17:21:18 +0000 2008",
+        "favourites_count": 9479,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 17161,
+        "statuses_count": 18572,
         "lang": null,
         "contributors_enabled": false,
         "is_translator": false,
         "is_translation_enabled": false,
-        "profile_background_color": "C0DEED",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
         "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1231272383799070720/z1Fc_vPC_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231272383799070720/z1Fc_vPC_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2228878592/1583848202",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": true,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none"
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 50493,
-      "favorite_count": 317227,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "en"
-    },
-    "is_quote_status": false,
-    "retweet_count": 50493,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Mon Mar 23 18:00:31 +0000 2020",
-    "id": 1242149240039772162,
-    "id_str": "1242149240039772162",
-    "text": "@beckkky____ take you home where bro? From your bedroom to the kitchen?",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "beckkky____",
-          "name": "BlackLite™️",
-          "id": 2209522257,
-          "id_str": "2209522257",
-          "indices": [
-            0,
-            12
-          ]
-        }
-      ],
-      "urls": []
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 1242140056917291011,
-    "in_reply_to_status_id_str": "1242140056917291011",
-    "in_reply_to_user_id": 2209522257,
-    "in_reply_to_user_id_str": "2209522257",
-    "in_reply_to_screen_name": "beckkky____",
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Sun Mar 22 05:19:53 +0000 2020",
-    "id": 1241595432498802688,
-    "id_str": "1241595432498802688",
-    "text": "anxiety                                  coronavirus\n                             🤝\n    indefinitely affecting my daily life",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": []
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Sat Mar 21 05:32:19 +0000 2020",
-    "id": 1241236174456467457,
-    "id_str": "1241236174456467457",
-    "text": "what Instagram challenge are y’all making up tomorrow ??",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": []
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Thu Mar 19 17:33:38 +0000 2020",
-    "id": 1240692923030597633,
-    "id_str": "1240692923030597633",
-    "text": "https://t.co/cQYMlbOjWq",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
-        {
-          "id": 1240692918370873345,
-          "id_str": "1240692918370873345",
-          "indices": [
-            0,
-            23
-          ],
-          "media_url": "http://pbs.twimg.com/media/ETfTosLWsAEey43.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/ETfTosLWsAEey43.jpg",
-          "url": "https://t.co/cQYMlbOjWq",
-          "display_url": "pic.twitter.com/cQYMlbOjWq",
-          "expanded_url": "https://twitter.com/jackdblu/status/1240692923030597633/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1152,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1240692918370873345,
-          "id_str": "1240692918370873345",
-          "indices": [
-            0,
-            23
-          ],
-          "media_url": "http://pbs.twimg.com/media/ETfTosLWsAEey43.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/ETfTosLWsAEey43.jpg",
-          "url": "https://t.co/cQYMlbOjWq",
-          "display_url": "pic.twitter.com/cQYMlbOjWq",
-          "expanded_url": "https://twitter.com/jackdblu/status/1240692923030597633/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1152,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "und"
-  },
-  {
-    "created_at": "Wed Mar 18 22:54:04 +0000 2020",
-    "id": 1240411173553651712,
-    "id_str": "1240411173553651712",
-    "text": "one minute you are in high school w someone then BOOM their hair line looks like this https://t.co/xbBbMXrXxE",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
-        {
-          "id": 1240411168021401604,
-          "id_str": "1240411168021401604",
-          "indices": [
-            86,
-            109
-          ],
-          "media_url": "http://pbs.twimg.com/media/ETbTYqVX0AQpUOQ.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/ETbTYqVX0AQpUOQ.jpg",
-          "url": "https://t.co/xbBbMXrXxE",
-          "display_url": "pic.twitter.com/xbBbMXrXxE",
-          "expanded_url": "https://twitter.com/jackdblu/status/1240411173553651712/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 453,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 2000,
-              "h": 1333,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 800,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1240411168021401604,
-          "id_str": "1240411168021401604",
-          "indices": [
-            86,
-            109
-          ],
-          "media_url": "http://pbs.twimg.com/media/ETbTYqVX0AQpUOQ.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/ETbTYqVX0AQpUOQ.jpg",
-          "url": "https://t.co/xbBbMXrXxE",
-          "display_url": "pic.twitter.com/xbBbMXrXxE",
-          "expanded_url": "https://twitter.com/jackdblu/status/1240411173553651712/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 453,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 2000,
-              "h": 1333,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 800,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 9,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Wed Mar 18 03:30:14 +0000 2020",
-    "id": 1240118285594574848,
-    "id_str": "1240118285594574848",
-    "text": "forget the coronavirus the scariest thing in this country is Democrats’ nominating B*den today",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": []
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 5,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Tue Mar 17 21:20:43 +0000 2020",
-    "id": 1240025295064674304,
-    "id_str": "1240025295064674304",
-    "text": "Vanessa Hudgens           the economy\n                              \n                            🤝\n               cancelled in 2020",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": []
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 7,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Tue Mar 17 17:53:27 +0000 2020",
-    "id": 1239973135698382848,
-    "id_str": "1239973135698382848",
-    "text": "RT @austuck: What y’all cousins working at the pentagon tell y’all today?",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "austuck",
-          "name": "diddy’s 4th son",
-          "id": 2601432453,
-          "id_str": "2601432453",
-          "indices": [
-            3,
-            11
-          ]
-        }
-      ],
-      "urls": []
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Mar 16 19:10:03 +0000 2020",
-      "id": 1239630021737828354,
-      "id_str": "1239630021737828354",
-      "text": "What y’all cousins working at the pentagon tell y’all today?",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "user": {
-        "id": 2601432453,
-        "id_str": "2601432453",
-        "name": "diddy’s 4th son",
-        "screen_name": "austuck",
-        "location": "Jackson, MS",
-        "description": "insta: austukr",
-        "url": null,
-        "entities": {
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 3915,
-        "friends_count": 2141,
-        "listed_count": 29,
-        "created_at": "Wed Jun 11 15:58:09 +0000 2014",
-        "favourites_count": 24400,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": true,
-        "verified": false,
-        "statuses_count": 40941,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "000000",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1242613370525810688/7jEoKYoD_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242613370525810688/7jEoKYoD_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2601432453/1580619586",
-        "profile_link_color": "DD2E44",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "000000",
-        "profile_text_color": "000000",
-        "profile_use_background_image": false,
-        "has_extended_profile": true,
-        "default_profile": false,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none"
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": {
-        "id": "b86cd6ef7a54d640",
-        "url": "https://api.twitter.com/1.1/geo/id/b86cd6ef7a54d640.json",
-        "place_type": "city",
-        "name": "Oxford",
-        "full_name": "Oxford, MS",
-        "country_code": "US",
-        "country": "United States",
-        "contained_within": [],
-        "bounding_box": {
-          "type": "Polygon",
-          "coordinates": [
-            [
-              [
-                -89.571643,
-                34.321375
-              ],
-              [
-                -89.495897,
-                34.321375
-              ],
-              [
-                -89.495897,
-                34.387965
-              ],
-              [
-                -89.571643,
-                34.387965
-              ]
-            ]
-          ]
-        },
-        "attributes": {}
-      },
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 25199,
-      "favorite_count": 87442,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "en"
-    },
-    "is_quote_status": false,
-    "retweet_count": 25199,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Tue Mar 17 07:30:10 +0000 2020",
-    "id": 1239816279155830785,
-    "id_str": "1239816279155830785",
-    "text": "BREAKING: The White House eases global hysteria by reporting that the novel Coronavirus does, in fact, follow the 5-second rule.",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": []
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 3,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Sat Mar 14 22:11:39 +0000 2020",
-    "id": 1238950950703783937,
-    "id_str": "1238950950703783937",
-    "text": "Covid-19 got me feeling 👉👈 more than I usually feel 👉👈 and I usually feel 👉👈 pretty hard",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": []
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 11,
-    "favorited": false,
-    "retweeted": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Fri Mar 13 03:26:56 +0000 2020",
-    "id": 1238305518399049729,
-    "id_str": "1238305518399049729",
-    "text": "camp sec trying to stop the reckless partying happening on campus this week https://t.co/9oX9VpC6ui",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
-        {
-          "id": 1238305507540008962,
-          "id_str": "1238305507540008962",
-          "indices": [
-            76,
-            99
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/ES9YTFxVAAIc8wJ.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ES9YTFxVAAIc8wJ.jpg",
-          "url": "https://t.co/9oX9VpC6ui",
-          "display_url": "pic.twitter.com/9oX9VpC6ui",
-          "expanded_url": "https://twitter.com/jackdblu/status/1238305518399049729/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 200,
-              "h": 250,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 200,
-              "h": 250,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 200,
-              "h": 250,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1238305507540008962,
-          "id_str": "1238305507540008962",
-          "indices": [
-            76,
-            99
-          ],
-          "media_url": "http://pbs.twimg.com/tweet_video_thumb/ES9YTFxVAAIc8wJ.jpg",
-          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ES9YTFxVAAIc8wJ.jpg",
-          "url": "https://t.co/9oX9VpC6ui",
-          "display_url": "pic.twitter.com/9oX9VpC6ui",
-          "expanded_url": "https://twitter.com/jackdblu/status/1238305518399049729/photo/1",
-          "type": "animated_gif",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 200,
-              "h": 250,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 200,
-              "h": 250,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 200,
-              "h": 250,
-              "resize": "fit"
-            }
-          },
-          "video_info": {
-            "aspect_ratio": [
-              4,
-              5
-            ],
-            "variants": [
-              {
-                "bitrate": 0,
-                "content_type": "video/mp4",
-                "url": "https://video.twimg.com/tweet_video/ES9YTFxVAAIc8wJ.mp4"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 4,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Thu Mar 12 02:37:31 +0000 2020",
-    "id": 1237930693277048832,
-    "id_str": "1237930693277048832",
-    "text": "RT @vincestaples: Smh they got Gump",
-    "truncated": false,
-    "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "vincestaples",
-          "name": "Vince Staples",
-          "id": 45090120,
-          "id_str": "45090120",
-          "indices": [
-            3,
-            16
-          ]
-        }
-      ],
-      "urls": []
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
-      "lang": null,
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "retweeted_status": {
-      "created_at": "Thu Mar 12 01:26:36 +0000 2020",
-      "id": 1237912847943790592,
-      "id_str": "1237912847943790592",
-      "text": "Smh they got Gump",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "user": {
-        "id": 45090120,
-        "id_str": "45090120",
-        "name": "Vince Staples",
-        "screen_name": "vincestaples",
-        "location": "Long Beach, CA",
-        "description": "Parody Account",
-        "url": "https://t.co/5yLKVwfBqV",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/5yLKVwfBqV",
-                "expanded_url": "https://www.thevincestaplesshow.com",
-                "display_url": "thevincestaplesshow.com",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 1125188,
-        "friends_count": 552,
-        "listed_count": 2327,
-        "created_at": "Sat Jun 06 07:40:05 +0000 2009",
-        "favourites_count": 262,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": true,
-        "verified": true,
-        "statuses_count": 2052,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "101820",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
-        "profile_background_tile": true,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1164588644104978432/n1uAfz7I_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164588644104978432/n1uAfz7I_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/45090120/1566361673",
-        "profile_link_color": "000000",
-        "profile_sidebar_border_color": "000000",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1234528105819189248/b6F1hk_6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234528105819189248/b6F1hk_6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18080585/1588690350",
+        "profile_link_color": "13AA52",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
         "profile_use_background_image": false,
         "has_extended_profile": false,
         "default_profile": false,
@@ -2771,83 +241,339 @@
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 12564,
-      "favorite_count": 61877,
+      "retweet_count": 5,
+      "favorite_count": 16,
       "favorited": false,
       "retweeted": false,
+      "possibly_sensitive": false,
       "lang": "en"
     },
+    "retweet_count": 10,
+    "favorite_count": 36,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed May 13 17:44:58 +0000 2020",
+    "id": 1260627108138635264,
+    "id_str": "1260627108138635264",
+    "text": "Thank you to everyone who has applied. Your research will help the world, and we are truly impressed by the many cr… https://t.co/Jt9al739oM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Jt9al739oM",
+          "expanded_url": "https://twitter.com/i/web/status/1260627108138635264",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1260627107224281089,
+    "in_reply_to_status_id_str": "1260627107224281089",
+    "in_reply_to_user_id": 2244994945,
+    "in_reply_to_user_id_str": "2244994945",
+    "in_reply_to_screen_name": "TwitterDev",
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 12564,
-    "favorite_count": 0,
+    "retweet_count": 2,
+    "favorite_count": 11,
     "favorited": false,
     "retweeted": false,
     "lang": "en"
   },
   {
-    "created_at": "Wed Mar 11 19:53:17 +0000 2020",
-    "id": 1237828964099358720,
-    "id_str": "1237828964099358720",
-    "text": "whose tryna spiral out of control with me? serious inquiries only.",
-    "truncated": false,
+    "created_at": "Wed May 13 17:44:58 +0000 2020",
+    "id": 1260627107224281089,
+    "id_str": "1260627107224281089",
+    "text": "If you aren’t approved for the COVID-19 stream, you may be able to use our free filtered stream with an approved de… https://t.co/KIu7A66LDS",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/KIu7A66LDS",
+          "expanded_url": "https://twitter.com/i/web/status/1260627107224281089",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1260627106486083584,
+    "in_reply_to_status_id_str": "1260627106486083584",
+    "in_reply_to_user_id": 2244994945,
+    "in_reply_to_user_id_str": "2244994945",
+    "in_reply_to_screen_name": "TwitterDev",
     "user": {
-      "id": 1196854601611300864,
-      "id_str": "1196854601611300864",
-      "name": "Jack",
-      "screen_name": "jackdblu",
-      "location": "",
-      "description": "",
-      "url": null,
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
       "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
         "description": {
-          "urls": []
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
         }
       },
       "protected": false,
-      "followers_count": 98,
-      "friends_count": 139,
-      "listed_count": 0,
-      "created_at": "Tue Nov 19 18:16:04 +0000 2019",
-      "favourites_count": 509,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": true,
-      "verified": false,
-      "statuses_count": 110,
+      "verified": true,
+      "statuses_count": 3555,
       "lang": null,
       "contributors_enabled": false,
       "is_translator": false,
       "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
       "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245024233173942273/gK3cgL0c_normal.jpg",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
       "profile_sidebar_fill_color": "DDEEF6",
       "profile_text_color": "333333",
-      "profile_use_background_image": true,
+      "profile_use_background_image": false,
       "has_extended_profile": true,
-      "default_profile": true,
+      "default_profile": false,
       "default_profile_image": false,
       "following": false,
       "follow_request_sent": false,
       "notifications": false,
-      "translator_type": "none"
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed May 13 17:44:58 +0000 2020",
+    "id": 1260627106486083584,
+    "id_str": "1260627106486083584",
+    "text": "“My application was rejected. Why?”\n \nThis can happen for a number of reasons. The most common are not having the t… https://t.co/SxiuRhK81U",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/SxiuRhK81U",
+          "expanded_url": "https://twitter.com/i/web/status/1260627106486083584",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1260627105601122305,
+    "in_reply_to_status_id_str": "1260627105601122305",
+    "in_reply_to_user_id": 2244994945,
+    "in_reply_to_user_id_str": "2244994945",
+    "in_reply_to_screen_name": "TwitterDev",
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
     },
     "geo": null,
     "coordinates": null,
@@ -2855,9 +581,2222 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 17,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed May 13 17:44:57 +0000 2020",
+    "id": 1260627105601122305,
+    "id_str": "1260627105601122305",
+    "text": "“My application was approved. Now what?”\n \nIf you have access to this endpoint, consider sharing your learnings, me… https://t.co/GVF5lTvUZC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/GVF5lTvUZC",
+          "expanded_url": "https://twitter.com/i/web/status/1260627105601122305",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1260627104682500097,
+    "in_reply_to_status_id_str": "1260627104682500097",
+    "in_reply_to_user_id": 2244994945,
+    "in_reply_to_user_id_str": "2244994945",
+    "in_reply_to_screen_name": "TwitterDev",
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed May 13 17:44:57 +0000 2020",
+    "id": 1260627104682500097,
+    "id_str": "1260627104682500097",
+    "text": "Our teams review each application thoughtfully to understand:\n\n1️⃣ Technical resources/plans to handle high data vo… https://t.co/IdYlCFQNpn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/IdYlCFQNpn",
+          "expanded_url": "https://twitter.com/i/web/status/1260627104682500097",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1260627103935938560,
+    "in_reply_to_status_id_str": "1260627103935938560",
+    "in_reply_to_user_id": 2244994945,
+    "in_reply_to_user_id_str": "2244994945",
+    "in_reply_to_screen_name": "TwitterDev",
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed May 13 17:44:57 +0000 2020",
+    "id": 1260627103935938560,
+    "id_str": "1260627103935938560",
+    "text": "97% of those approved so far are researchers. 🔎\n\nMost often, they want to study how misinformation spreads, public… https://t.co/LjDhewyrLl",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LjDhewyrLl",
+          "expanded_url": "https://twitter.com/i/web/status/1260627103935938560",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1260627103164166145,
+    "in_reply_to_status_id_str": "1260627103164166145",
+    "in_reply_to_user_id": 2244994945,
+    "in_reply_to_user_id_str": "2244994945",
+    "in_reply_to_screen_name": "TwitterDev",
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed May 13 17:44:57 +0000 2020",
+    "id": 1260627103164166145,
+    "id_str": "1260627103164166145",
+    "text": "Applications, by the numbers 📊\n\n🌏🌍🌎35+ countries are represented by all applicants\n🎓70% are academic researchers\n💼1… https://t.co/OtQpwXOrHA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/OtQpwXOrHA",
+          "expanded_url": "https://twitter.com/i/web/status/1260627103164166145",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1260627102241402880,
+    "in_reply_to_status_id_str": "1260627102241402880",
+    "in_reply_to_user_id": 2244994945,
+    "in_reply_to_user_id_str": "2244994945",
+    "in_reply_to_screen_name": "TwitterDev",
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed May 13 17:44:57 +0000 2020",
+    "id": 1260627102241402880,
+    "id_str": "1260627102241402880",
+    "text": "Since its launch a few weeks ago, there’s been a lot of interest in the COVID-19 stream endpoint. Today we want to… https://t.co/Hs5rpi4yD7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Hs5rpi4yD7",
+          "expanded_url": "https://twitter.com/i/web/status/1260627102241402880",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1255542774432063488,
+    "quoted_status_id_str": "1255542774432063488",
+    "quoted_status": {
+      "created_at": "Wed Apr 29 17:01:38 +0000 2020",
+      "id": 1255542774432063488,
+      "id_str": "1255542774432063488",
+      "text": "During these unprecedented times, what’s happening on Twitter can help the world better understand &amp; respond to the… https://t.co/X5ZVcb6m1j",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/X5ZVcb6m1j",
+            "expanded_url": "https://twitter.com/i/web/status/1255542774432063488",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2244994945,
+        "id_str": "2244994945",
+        "name": "Twitter Dev",
+        "screen_name": "TwitterDev",
+        "location": "127.0.0.1",
+        "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+        "url": "https://t.co/3ZX3TNiZCY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3ZX3TNiZCY",
+                "expanded_url": "https://developer.twitter.com/en/community",
+                "display_url": "developer.twitter.com/en/community",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/DVDf7qKyS9",
+                "expanded_url": "http://twittercommunity.com",
+                "display_url": "twittercommunity.com",
+                "indices": [
+                  129,
+                  152
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 507992,
+        "friends_count": 1809,
+        "listed_count": 1539,
+        "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+        "favourites_count": 2183,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3555,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 295,
+      "favorite_count": 646,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 16,
+    "favorite_count": 33,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon May 11 19:36:10 +0000 2020",
+    "id": 1259930316388499456,
+    "id_str": "1259930316388499456",
+    "text": "Get customized Tweet notifications when and where you want them.🤳\n\nUse the Twitter API to find Tweets of interest a… https://t.co/dDT5O2EW65",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dDT5O2EW65",
+          "expanded_url": "https://twitter.com/i/web/status/1259930316388499456",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 39,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed May 06 17:24:31 +0000 2020",
+    "id": 1258085245091368960,
+    "id_str": "1258085245091368960",
+    "text": "It’s now easier to understand Tweet impact. \n\nWe’ve added metrics information directly to Tweet and media objects w… https://t.co/20v9B7til9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/20v9B7til9",
+          "expanded_url": "https://twitter.com/i/web/status/1258085245091368960",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 61,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Apr 29 17:01:44 +0000 2020",
+    "id": 1255542797765013504,
+    "id_str": "1255542797765013504",
+    "text": "Our developer community is full of inspiring ideas that help the world learn from and improve our collective prepar… https://t.co/XObxbOQqmQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/XObxbOQqmQ",
+          "expanded_url": "https://twitter.com/i/web/status/1255542797765013504",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1255542791163138049,
+    "in_reply_to_status_id_str": "1255542791163138049",
+    "in_reply_to_user_id": 2244994945,
+    "in_reply_to_user_id_str": "2244994945",
+    "in_reply_to_screen_name": "TwitterDev",
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 57,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Apr 29 17:01:42 +0000 2020",
+    "id": 1255542791163138049,
+    "id_str": "1255542791163138049",
+    "text": "This new streaming endpoint is available in Twitter Developer Labs and provides comprehensive access to COVID-19 re… https://t.co/wFylrCYJI8",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/wFylrCYJI8",
+          "expanded_url": "https://twitter.com/i/web/status/1255542791163138049",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1255542782099255296,
+    "in_reply_to_status_id_str": "1255542782099255296",
+    "in_reply_to_user_id": 2244994945,
+    "in_reply_to_user_id_str": "2244994945",
+    "in_reply_to_screen_name": "TwitterDev",
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "favorite_count": 55,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Apr 29 17:01:40 +0000 2020",
+    "id": 1255542782099255296,
+    "id_str": "1255542782099255296",
+    "text": "The volume of conversation about COVID-19 is tremendous, which means it requires expertise and computational resour… https://t.co/Rzsa9P2Bn1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Rzsa9P2Bn1",
+          "expanded_url": "https://twitter.com/i/web/status/1255542782099255296",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1255542774432063488,
+    "in_reply_to_status_id_str": "1255542774432063488",
+    "in_reply_to_user_id": 2244994945,
+    "in_reply_to_user_id_str": "2244994945",
+    "in_reply_to_screen_name": "TwitterDev",
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 31,
+    "favorite_count": 60,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Apr 29 17:01:38 +0000 2020",
+    "id": 1255542774432063488,
+    "id_str": "1255542774432063488",
+    "text": "During these unprecedented times, what’s happening on Twitter can help the world better understand &amp; respond to the… https://t.co/X5ZVcb6m1j",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/X5ZVcb6m1j",
+          "expanded_url": "https://twitter.com/i/web/status/1255542774432063488",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 295,
+    "favorite_count": 646,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 30 16:18:45 +0000 2020",
+    "id": 1244660343646957568,
+    "id_str": "1244660343646957568",
+    "text": "RT @getpostman: Those on the front lines of the COVID-19 fight need quick, easy access to real-time critical data. That’s what APIs (and AP…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "getpostman",
+          "name": "Postman",
+          "id": 517705687,
+          "id_str": "517705687",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Mar 26 22:23:59 +0000 2020",
+      "id": 1243302707466850319,
+      "id_str": "1243302707466850319",
+      "text": "Those on the front lines of the COVID-19 fight need quick, easy access to real-time critical data. That’s what APIs… https://t.co/w9AjxsxuNk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/w9AjxsxuNk",
+            "expanded_url": "https://twitter.com/i/web/status/1243302707466850319",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 517705687,
+        "id_str": "517705687",
+        "name": "Postman",
+        "screen_name": "getpostman",
+        "location": "The magical land of APIs",
+        "description": "The collaboration platform for API development. Used by 10 million developers across 500,000 organizations. Also, hi there.👋",
+        "url": "https://t.co/GUZflQ0BPi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/GUZflQ0BPi",
+                "expanded_url": "https://www.postman.com",
+                "display_url": "postman.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 16149,
+        "friends_count": 527,
+        "listed_count": 424,
+        "created_at": "Wed Mar 07 15:45:03 +0000 2012",
+        "favourites_count": 5551,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7883,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F15A24",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1145765814705872900/xWMRvm_5_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145765814705872900/xWMRvm_5_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/517705687/1566239940",
+        "profile_link_color": "EF5B25",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 47,
+      "favorite_count": 104,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 47,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 27 20:10:59 +0000 2020",
+    "id": 1243631624945717248,
+    "id_str": "1243631624945717248",
+    "text": "Update: We’re continuing to see increased wait times for developer applications and expect to see improvement over… https://t.co/MrqN6lwjLN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/MrqN6lwjLN",
+          "expanded_url": "https://twitter.com/i/web/status/1243631624945717248",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1242209814706438144,
+    "quoted_status_id_str": "1242209814706438144",
+    "quoted_status": {
+      "created_at": "Mon Mar 23 22:01:13 +0000 2020",
+      "id": 1242209814706438144,
+      "id_str": "1242209814706438144",
+      "text": "As we work to keep our employees safe during COVID-19, you are likely to experience longer than usual review times… https://t.co/Oo1t07UH4Z",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Oo1t07UH4Z",
+            "expanded_url": "https://twitter.com/i/web/status/1242209814706438144",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2244994945,
+        "id_str": "2244994945",
+        "name": "Twitter Dev",
+        "screen_name": "TwitterDev",
+        "location": "127.0.0.1",
+        "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+        "url": "https://t.co/3ZX3TNiZCY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3ZX3TNiZCY",
+                "expanded_url": "https://developer.twitter.com/en/community",
+                "display_url": "developer.twitter.com/en/community",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/DVDf7qKyS9",
+                "expanded_url": "http://twittercommunity.com",
+                "display_url": "twittercommunity.com",
+                "indices": [
+                  129,
+                  152
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 507992,
+        "friends_count": 1809,
+        "listed_count": 1539,
+        "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+        "favourites_count": 2183,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3555,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 40,
+      "favorite_count": 132,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 22,
+    "favorite_count": 67,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 23 22:01:13 +0000 2020",
+    "id": 1242209814706438144,
+    "id_str": "1242209814706438144",
+    "text": "As we work to keep our employees safe during COVID-19, you are likely to experience longer than usual review times… https://t.co/Oo1t07UH4Z",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Oo1t07UH4Z",
+          "expanded_url": "https://twitter.com/i/web/status/1242209814706438144",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 40,
+    "favorite_count": 132,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 23 16:26:09 +0000 2020",
+    "id": 1242125490543976449,
+    "id_str": "1242125490543976449",
+    "text": "The Tweets and recent search endpoints will now also include annotations. \n\nRead more 📖 https://t.co/xpjZgICl5b",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xpjZgICl5b",
+          "expanded_url": "https://twittercommunity.com/t/adding-annotations-to-tweets-and-recent-search-endpoints-in-labs/135193",
+          "display_url": "twittercommunity.com/t/adding-annot…",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1242125486844604425,
+    "in_reply_to_status_id_str": "1242125486844604425",
+    "in_reply_to_user_id": 2244994945,
+    "in_reply_to_user_id_str": "2244994945",
+    "in_reply_to_screen_name": "TwitterDev",
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 23 16:26:08 +0000 2020",
+    "id": 1242125486844604425,
+    "id_str": "1242125486844604425",
+    "text": "A few months ago, we added Tweet annotations to the Labs’ streaming endpoints. These annotations help uncover detai… https://t.co/ViHyvQ4Y8S",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ViHyvQ4Y8S",
+          "expanded_url": "https://twitter.com/i/web/status/1242125486844604425",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2244994945,
+      "id_str": "2244994945",
+      "name": "Twitter Dev",
+      "screen_name": "TwitterDev",
+      "location": "127.0.0.1",
+      "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+      "url": "https://t.co/3ZX3TNiZCY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/3ZX3TNiZCY",
+              "expanded_url": "https://developer.twitter.com/en/community",
+              "display_url": "developer.twitter.com/en/community",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/DVDf7qKyS9",
+              "expanded_url": "http://twittercommunity.com",
+              "display_url": "twittercommunity.com",
+              "indices": [
+                129,
+                152
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 507992,
+      "friends_count": 1809,
+      "listed_count": 1539,
+      "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+      "favourites_count": 2183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3555,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1204497856679202816,
+    "quoted_status_id_str": "1204497856679202816",
+    "quoted_status": {
+      "created_at": "Tue Dec 10 20:27:22 +0000 2019",
+      "id": 1204497856679202816,
+      "id_str": "1204497856679202816",
+      "text": "You may have seen the recent announcement about following Topics on Twitter. Today, we’re excited to provide API su… https://t.co/ZlJUjmHIBe",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZlJUjmHIBe",
+            "expanded_url": "https://twitter.com/i/web/status/1204497856679202816",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2244994945,
+        "id_str": "2244994945",
+        "name": "Twitter Dev",
+        "screen_name": "TwitterDev",
+        "location": "127.0.0.1",
+        "description": "The voice of Twitter's #DevRel team, and your official source for updates, news, & events about Twitter's API.\n\nNeed help? Visit https://t.co/DVDf7qKyS9",
+        "url": "https://t.co/3ZX3TNiZCY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3ZX3TNiZCY",
+                "expanded_url": "https://developer.twitter.com/en/community",
+                "display_url": "developer.twitter.com/en/community",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/DVDf7qKyS9",
+                "expanded_url": "http://twittercommunity.com",
+                "display_url": "twittercommunity.com",
+                "indices": [
+                  129,
+                  152
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 507992,
+        "friends_count": 1809,
+        "listed_count": 1539,
+        "created_at": "Sat Dec 14 04:35:55 +0000 2013",
+        "favourites_count": 2183,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3555,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/880136122604507136/xHrnqf1T_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1498675817",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 92,
+      "favorite_count": 248,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 35,
+    "favorite_count": 93,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "en"
   }
 ]
