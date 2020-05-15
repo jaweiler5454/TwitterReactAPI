@@ -3,6 +3,7 @@ import { StyleSheet, View, Dimensions, Text } from "react-native";
 import { Card, ListItem, Image, Icon, Overlay } from "react-native-elements";
 import { Video } from "expo-av";
 import FBCollage from "react-native-fb-collage";
+import PropTypes from "prop-types";
 import data from "./data.json";
 
 // CLASS-WIDE CONSTANTS
@@ -145,6 +146,16 @@ function textComponent(tweetObj, isRetweet, hasMedia, user, tweeter) {
   );
 }
 
+// function quotedComponent(tweetObject, isRetweet, hasMedia, user, tweeter){
+//     return(
+//         <Card>
+//             <ListItem>
+
+//             </ListItem>
+//         </Card>
+//     );
+// }
+
 // On PopUp
 function modalContent(mediaType, mediaUrl) {
   if (mediaType === "video" || mediaType === "animated_gif") {
@@ -189,7 +200,9 @@ export default class Tweet extends Component {
     this.tweet = props.tweetObject; // imported from timeline
     this.isRetweet = props.isRetweet; // NEED TO BE IMPORTED FROM TIMELINE
     this.hasMedia = props.hasMedia; // NEED TO BE IMPORTED FROM TIMELINE
+    this.doesQuote = props.doesQuote;
     this.media = props.mediaContent;
+    this.accountName = props.accountName;
 
     this.state = {
       showPhotoModal: false,
@@ -211,7 +224,7 @@ export default class Tweet extends Component {
             this.tweet,
             this.isRetweet,
             this.hasMedia,
-            this.name,
+            this.accountName,
             this.username
           )}
         </Card>
@@ -243,14 +256,14 @@ export default class Tweet extends Component {
               this.tweet,
               this.isRetweet,
               this.hasMedia,
-              this.name,
+              this.accountName,
               this.username
             )}
             <View style={styles.imageContainer}>
               <FBCollage
                 images={this.media[0]}
                 style={styles.singleImage}
-                imageOnPress={(index, images) => {
+                imageOnPress={(index) => {
                   this.setState({
                     showPhotoModal: true,
                     currUrl: this.media[2][index],
@@ -266,6 +279,16 @@ export default class Tweet extends Component {
   }
 }
 
-// Timeline.propTypes = {
-//   username: PropTypes.string.isRequired,
-// };
+// PROPS VALIDATION
+Tweet.propTypes = {
+  // eslint-disable-next-line react/forbid-prop-types
+  tweetObject: PropTypes.object.isRequired,
+  isRetweet: PropTypes.bool.isRequired,
+  hasMedia: PropTypes.bool.isRequired,
+  doesQuote: PropTypes.bool.isRequired,
+  mediaContent: PropTypes.arrayOf(PropTypes.arrayOf(PropTypes.string))
+    .isRequired,
+  name: PropTypes.string.isRequired,
+  username: PropTypes.string.isRequired,
+  accountName: PropTypes.string.isRequired,
+};

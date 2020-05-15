@@ -1,10 +1,6 @@
 import React from "react";
 import { StyleSheet, Dimensions } from "react-native";
-import HomeScreen from "./screens/HomeScreen";
 import Timeline from "./components/Timeline";
-
-const DEVICE_WIDTH = Math.round(Dimensions.get("window").width);
-const DEVICE_HEIGHT = Math.round(Dimensions.get("window").height);
 
 const styles = StyleSheet.create({
   container: {
@@ -14,6 +10,12 @@ const styles = StyleSheet.create({
 });
 
 function App() {
-  return <Timeline style={styles.container} />;
+  return (
+    <Timeline
+      userId="TwitterDev"
+      username="Twitter Dev"
+      style={styles.container}
+    />
+  );
 }
 export default App;
